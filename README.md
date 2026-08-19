@@ -154,6 +154,6 @@ Some industry and subvertical labels required judgment calls during cleaning, si
 
 ## Author
 
-Jeet Makhija
+Sandesh Wabale
 
-LinkedIn: [https://www.linkedin.com/in/jeet-makhija/]
+LinkedIn: https://github.com/SandeshWabale
